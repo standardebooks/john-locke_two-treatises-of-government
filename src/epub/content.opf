@@ -28,6 +28,14 @@
 		<link href="onix.xml" media-type="application/xml" properties="onix" rel="record"/>
 		<dc:title id="title">Two Treatises of Government</dc:title>
 		<meta property="file-as" refines="#title">Two Treatises of Government</meta>
+		<meta property="dcterms:alternate" refines="#title">2 Treatises of Government</meta>
+		<meta property="title-type" refines="#title">main</meta>
+		<dc:title id="subtitle">In the Former the False Principles and Foundation of Sir Robert Filmer and His Followers Are Detected and Overthrown. The Latter Is an Essay Concerning the True Original Extent and End of Civil Government.</dc:title>
+		<meta property="file-as" refines="#subtitle">In the Former the False Principles and Foundation of Sir Robert Filmer and His Followers Are Detected and Overthrown. The Latter Is an Essay Concerning the True Original Extent and End of Civil Government.</meta>
+		<meta property="title-type" refines="#subtitle">subtitle</meta>
+		<dc:title id="fulltitle">Two Treatises of Government: In the Former the False Principles and Foundation of Sir Robert Filmer and His Followers Are Detected and Overthrown. The Latter Is an Essay Concerning the True Original Extent and End of Civil Government.</dc:title>
+		<meta property="file-as" refines="#fulltitle">Two Treatises of Government: In the Former the False Principles and Foundation of Sir Robert Filmer and His Followers Are Detected and Overthrown. The Latter Is an Essay Concerning the True Original Extent and End of Civil Government.</meta>
+		<meta property="title-type" refines="#fulltitle">extended</meta>
 		<dc:subject id="subject-1">SUBJECT_1</dc:subject>
 		<dc:subject id="subject-2">SUBJECT_2</dc:subject>
 		<meta property="authority" refines="#subject-1">LCSH</meta>
@@ -51,7 +59,9 @@
 		<meta property="file-as" refines="#author">Locke, John</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/John_Locke</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/n79090225</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">ann</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">wpr</meta>
 		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
 		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
