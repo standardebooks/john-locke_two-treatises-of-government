@@ -46,14 +46,21 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh2009129646</meta>
 		<meta property="se:subject">Nonfiction</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<dc:description id="description">Locke critiques the concepts of absolute monarchy and divine right, arguing instead for a government founded on natural rights, individual freedom, and the consent of the governed, which protects the fundamental rights of life, liberty, and property.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/john-locke"&gt;John Locke’s&lt;/a&gt; &lt;i&gt;Two Treatises of Government&lt;/i&gt; is a foundational text in liberal political thought, which challenges the prevailing theories of divine right and absolute monarchy. The work is divided into two treatises, with the first primarily focused on refuting Sir Robert Filmer’s &lt;i&gt;Patriarcha&lt;/i&gt;, which advocated for absolute monarchical power based on the supposed divine right of kings. Locke dismantles Filmer’s claims, demonstrating the lack of scriptural support for inherited political authority, and distinguishing between political power and paternal power.&lt;/p&gt;
+			&lt;p&gt;In the second treatise, Locke articulates his own theory of government, grounded in natural law and individual rights. He posits that all individuals are born free and equal, possessing inalienable rights to life, liberty, and property. Locke discusses the concept of the state of nature, where individuals are governed by natural law, and argues that legitimate government arises from the consent of the governed. He discusses how the social contract establishes the moral foundation for political authority.&lt;/p&gt;
+			&lt;p&gt;Locke proposes that should a government fail to protect the rights of the people or violates the social contract, citizens have the right and duty to revolt and establish a new government. His ideas about government by consent, the right to private property, and the right to revolution have profoundly influenced modern democratic thought and the development of liberal political theory, laying the groundwork for later political movements advocating for democracy and human rights.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://oll.libertyfund.org/titles/hollis-the-two-treatises-of-civil-government-hollis-ed</dc:source>
 		<dc:source>https://archive.org/details/twotreatisesgov00lockgoog</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">
+			The scanned 1824 Rivington edition takes precedence over the transcribed 1764 Millar edition, as Rivington modernizes punctuation, spelling and capitalization.
+			Subchapter section numbering from the original text has been omitted.
+			Numbered lists have been marked up as ordered lists, except those which span multiple sections in the original text.
+			Instances of spurious numbering from the original text remain intact.
+		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Two_Treatises_of_Government</meta>
