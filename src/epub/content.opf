@@ -59,7 +59,7 @@
 			The scanned 1824 Rivington edition takes precedence over the transcribed 1764 Millar edition, as Rivington modernizes punctuation, spelling and capitalization.
 			Subchapter section numbering from the original text has been omitted.
 			Numbered lists have been marked up as ordered lists, except those which span multiple sections in the original text.
-			Instances of spurious numbering from the original text remain intact.
+			Instances of spurious numbering in the original text have been omitted.
 		</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
