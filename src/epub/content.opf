@@ -29,7 +29,7 @@
 		<meta property="schema:accessibilitySummary">This publication conforms to WCAG 2.2 Level AA.</meta>
 		<dc:title id="title">Two Treatises of Government</dc:title>
 		<meta property="file-as" refines="#title">Two Treatises of Government</meta>
-		<meta property="dcterms:alternate" refines="#title">2 Treatises of Government</meta>
+		<meta property="dcterms:alternative" refines="#title">2 Treatises of Government</meta>
 		<meta property="title-type" refines="#title">main</meta>
 		<dc:title id="subtitle">In the Former the False Principles and Foundation of Sir Robert Filmer and His Followers Are Detected and Overthrown. The Latter Is an Essay Concerning the True Original Extent and End of Civil Government.</dc:title>
 		<meta property="file-as" refines="#subtitle">In the Former the False Principles and Foundation of Sir Robert Filmer and His Followers Are Detected and Overthrown. The Latter Is an Essay Concerning the True Original Extent and End of Civil Government.</meta>
